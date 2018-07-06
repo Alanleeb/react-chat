@@ -29,3 +29,7 @@ const mapStateToProps = state => {
 };
 
 export default connect(mapStateToProps)(FetchUser);
+<<<<<<< HEAD
+=======
+
+>>>>>>> chat update
